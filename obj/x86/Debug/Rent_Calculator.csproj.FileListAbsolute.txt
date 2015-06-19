@@ -1,0 +1,11 @@
+c:\users\ian\documents\visual studio 2013\Projects\Rent_Calculator\Rent_Calculator\bin\Debug\Rent_Calculator.exe.config
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\Rent_Calculator\Rent_Calculator\bin\Debug\Rent_Calculator.exe
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\Rent_Calculator\Rent_Calculator\bin\Debug\Rent_Calculator.pdb
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\Rent_Calculator\Rent_Calculator\obj\x86\Debug\Rent_Calculator.Properties.Resources.resources
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\Rent_Calculator\Rent_Calculator\obj\x86\Debug\Rent_Calculator.csproj.GenerateResource.Cache
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\Rent_Calculator\Rent_Calculator\obj\x86\Debug\Rent_Calculator.exe
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\Rent_Calculator\Rent_Calculator\obj\x86\Debug\Rent_Calculator.pdb
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\Rent_Calculator\Rent_Calculator\obj\x86\Debug\Rent_Calculator.Rent_Calculator.resources
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\Rent_Calculator\Rent_Calculator\obj\x86\Debug\Rent_Calculator.InputDialog.resources
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\Rent_Calculator\Rent_Calculator\obj\x86\Debug\Rent_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\Rent_Calculator\Rent_Calculator\bin\Debug\RentCalculator.exe.config
